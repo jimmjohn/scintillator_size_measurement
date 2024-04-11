@@ -1,0 +1,9 @@
+#Installing pip
+sudo apt install python-pip
+
+
+#Installing various packages
+pip install opencv-contrib-python
+pip install scipy
+pip install imutils
+pip install --upgrade imutils
